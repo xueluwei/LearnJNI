@@ -1,0 +1,9 @@
+.gradle
+.idea
+/build
+/keystore
+keystore.properties
+local.properties
+app/google-services.json
+*/build
+app/release
